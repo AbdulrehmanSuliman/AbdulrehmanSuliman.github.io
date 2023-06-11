@@ -23,7 +23,7 @@ const people = [
     github: 'https://github.com/samarnabil',
     linkedIn: 'https://www.linkedin.com/in/samar-elshiekh/',
     imageUrl:
-      '/Samar.png',
+      '/Samar.PNG',
   },
   {
     name: 'Yomna Sabah',
@@ -41,8 +41,8 @@ export default function Home() {
     
 <nav className="bg-slate-900 border-gray-200">
   <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-    <a href="https://flowbite.com/" className="flex items-center">
-        <img src="/logo.svg" className="h-8 mr-3" alt="Flowbite Logo" />
+    <a href="#" className="flex items-center">
+        <img src="/Logo.svg" className="h-8 mr-3" alt="Voxight Logo" />
         <span className="self-center text-2xl font-semibold whitespace-nowrap">Voxight</span>
     </a>
     
