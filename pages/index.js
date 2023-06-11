@@ -86,8 +86,9 @@ export default function Home() {
    Additionally, the user-friendly interface and web-based approach make our platform highly accessible and easy to use.
         </p>
   </div>
-  
-      <div className="mx-auto mt-3 grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3 bg-slate-300 pt-6 pb-10">
+  <div className='w-full bg-slate-300'>
+
+      <div className="mx-auto mt-3 grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3 pt-6 pb-10">
         <div className="max-w-2xl">
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our Team</h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
@@ -111,6 +112,7 @@ export default function Home() {
             </li>
           ))}
         </ul>
+      </div>
       </div>
       </div>
         <footer className="bg-gray-800 text-white p-2 text-center">
