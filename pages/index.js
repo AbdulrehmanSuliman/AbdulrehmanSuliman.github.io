@@ -7,7 +7,7 @@ const people = [
     github: 'https://github.com/AbdulrehmanSuliman',
     linkedIn: 'https://www.linkedin.com/in/abdulrehmansuliman/',
     imageUrl:
-      'https://media.licdn.com/dms/image/D4D03AQGHdXkN0yLPvQ/profile-displayphoto-shrink_400_400/0/1681067624731?e=1692230400&v=beta&t=4HUmaUGR2pKn9TjNEir6MtCZ7iPqMJOR9mweVLeFp_Q',
+      '/Abdelrahman.jpg',
   },
   {
     name: 'Amr Zayed',
